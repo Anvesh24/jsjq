@@ -1,0 +1,13 @@
+.container{
+	height: 960px;
+	width: 960px;
+	background-color: #EEEEEE;
+}
+.sqaure{
+	float: left;
+	background-color: #FFFFFF;
+	border-style: solid;
+	display: block;
+	border-width: 2px;
+	border-color: #000000;
+}
