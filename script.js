@@ -17,7 +17,6 @@ var createGrid = function(numBox){
 
 	for (i=0;i<numBox;i++){
 		for(j=0;j<numBox;j++){
-			console.log(i);
 			$('.container').append('<div class="square"></div>');
 		}	
 
